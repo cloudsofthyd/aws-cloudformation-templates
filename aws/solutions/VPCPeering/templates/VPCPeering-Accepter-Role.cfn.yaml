@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: This template creates an assumable role to be used by the requester account to accept the VPC peering connection. (Accepter Account)
+Description: This template is modified by cloudsoftcreates an assumable role to be used by the requester account to accept the VPC peering connection. (Accepter Account)
 Metadata:
   AWS::CloudFormation::Interface:
     ParameterGroups:
